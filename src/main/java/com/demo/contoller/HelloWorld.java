@@ -16,4 +16,8 @@ public class HelloWorld {
 	public String getName() {
 		return "premchands reddy";
 	}
+	@GetMapping("/num")
+	public String getNum() {
+		return "9348447714";
+	}
 }
