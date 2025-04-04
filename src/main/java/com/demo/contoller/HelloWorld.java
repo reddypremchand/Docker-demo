@@ -14,6 +14,6 @@ public class HelloWorld {
 	}
 	@GetMapping("/name")
 	public String getName() {
-		return "premchand";
+		return "premchands reddy";
 	}
 }
