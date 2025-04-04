@@ -10,6 +10,10 @@ public class HelloWorld {
 
 	@GetMapping
 	public String getMessage() {
-		return "Hello World";
+		return "Hello World Bangeluru";
+	}
+	@GetMapping
+	public String getName() {
+		return "premchand";
 	}
 }
