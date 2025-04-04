@@ -10,7 +10,7 @@ public class HelloWorld {
 
 	@GetMapping
 	public String getMessage() {
-		return "Hello World Bangeluru premchand";
+		return "Hello World Bengaluru";
 	}
 	@GetMapping("/name")
 	public String getName() {
